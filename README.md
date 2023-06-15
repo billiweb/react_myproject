@@ -3,5 +3,5 @@
 Todo List Project 😀
 
 - 기능 : list 입력창 만들기 / 버튼 클릭시 삭제 & 이동 기능 구현
-- 활용 : React / css
+- 활용 : React / css / jsx
 - useState / map / filter 활용
