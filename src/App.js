@@ -71,10 +71,6 @@ const RemoveListHandler = (id) => {
           추가하기
         </button>
       </div>
-      <div>
-        {title}
-        {todo}
-      </div>
 
       <h3>Working 🔥</h3>
       <div className="list-style">
